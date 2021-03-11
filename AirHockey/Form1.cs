@@ -211,7 +211,7 @@ namespace AirHockey
 
         }
 
-        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        private void Form1_KeyDown(object sender, KeyEventArgs e) 
         {
             switch (e.KeyCode)
             {
